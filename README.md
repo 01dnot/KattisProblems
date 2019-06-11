@@ -1,6 +1,6 @@
 # KattisProblems
 
-This repo contains solutions to some kattisproblems.
+This repo contains my solutions to some problems on [Kattis](https://open.kattis.com)
 
 | Problem                                   | Lang | CPU    |
 |-------------------------------------------|------|--------|
